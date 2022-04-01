@@ -1,0 +1,11 @@
+.btn-primary{
+    margin-left: 5px;
+}
+.text-center{
+    color: #555555;
+    text-shadow: 0.3rem 0.3rem 0.3rem #ccc;
+}
+
+input::placeholder{
+    font-size: 12px;
+}
